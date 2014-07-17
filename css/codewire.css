@@ -1,0 +1,164 @@
+/* UNCOMMENT TO REINSTATE BOOTSTRAP TYPOGRAPHY
+
+body {
+  color: #333;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+*/
+
+h4.modal-title {
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #444;
+}
+
+p {
+  color: #cfcfcf;
+}
+
+.btn {
+  color: #ddd;
+}
+
+.capital {
+  float: none;
+  margin: 0 auto;
+  position: fixed;
+}
+
+.capital h1 {
+  border-bottom: 2px solid #555;
+  border-top: 2px solid #555;
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  font-size: .75em;
+  font-weight: 900;
+  letter-spacing: 5px;
+  padding: .5em 0.1em .4em 0.4em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.capital h1:hover {
+  border-bottom: 2px solid #ffb404;
+  border-top: 2px solid #ffb404;
+  color: #ffb404;
+}
+
+.close {
+  color: #ffb404;
+  opacity: 1;
+  text-shadow: none;
+  filter: alpha(opacity=80);
+}
+
+.close:hover {
+  color: #ffb404;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+
+.codeTag {
+  float: right;
+  top: 2em;
+  right: 2em;
+}
+
+.codeTag button {
+  border: none;
+  background: transparent;
+}
+
+.codeTag .glyphicon {
+  color: #bbb;
+  font-size: 2em
+}
+
+.codeTag .glyphicon:hover {
+  color: #ffb404;
+}
+
+.centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.helvetica {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.ht-400 {
+  height: 270px;
+  margin-top: 40px;
+}
+
+.ht-500 {
+  height: 310px;
+  margin-top: 90px;
+}
+
+.ht-600 {
+  height: 380px;
+  margin-top: 140px;
+}
+
+.image {
+  min-width: 85%;
+}
+
+.iPhone {
+  max-height: 75%;
+  padding: 20px;
+}
+
+.item {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.mailchimp {
+  padding-top: 20px;
+}
+
+.modal-content {
+  background-color: #333;
+}
+
+.modal-header {
+  background-color: #2b2b2b;
+  border-bottom: none;
+  min-height: 10px;
+  padding: 15px;
+}
+
+.modal-header h4 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.modal-title {
+  color: #ffb404;
+  letter-spacing: 2px;
+  line-height: 0;
+  text-transform: uppercase;
+}
+
+.module {
+  background-color: #eee;
+  border: 5px solid #fff;
+  height: 600px;
+  padding-top: 1.2em;
+}
+
+pre {
+  background-color: #333;
+  border: 1px solid #333;
+  color: #ccc;
+}
+
+.verticalCenter {
+  padding-top: 10%;
+}
